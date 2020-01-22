@@ -1,0 +1,1 @@
+(this["webpackJsonpweask-app"]=this["webpackJsonpweask-app"]||[]).push([[10],{150:function(a,e,t){"use strict";t.r(e);var n=t(0),s=t.n(n);e.default=function(){return s.a.createElement(s.a.Fragment,null,"administracion de etiquetas")}}}]);

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.2a5eb0da.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/0.2a5eb0da.chunk.js",
+    "static/js/1.d429adc3.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/1.d429adc3.chunk.js",
+    "main.css": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/css/main.227be69d.chunk.css",
+    "main.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/main.e38b4f12.chunk.js",
+    "runtime-main.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/runtime-main.af94547c.js",
+    "static/js/4.9909693a.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/4.9909693a.chunk.js",
+    "static/js/5.413cd0a1.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/5.413cd0a1.chunk.js",
+    "static/js/6.8cef34ed.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/6.8cef34ed.chunk.js",
+    "static/js/7.5d6289f5.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/7.5d6289f5.chunk.js",
+    "static/js/8.746d7399.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/8.746d7399.chunk.js",
+    "static/js/9.9365ca40.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/9.9365ca40.chunk.js",
+    "static/js/10.6bd290a4.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/10.6bd290a4.chunk.js",
+    "static/js/11.59cb890b.chunk.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/11.59cb890b.chunk.js",
+    "index.html": "/JorgeCasagrande/WeaskWebApp.github.io.git/index.html",
+    "precache-manifest.73df1f16efb4cb36604234f2f2e442d9.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/precache-manifest.73df1f16efb4cb36604234f2f2e442d9.js",
+    "service-worker.js": "/JorgeCasagrande/WeaskWebApp.github.io.git/service-worker.js",
+    "static/js/0.2a5eb0da.chunk.js.LICENSE": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/0.2a5eb0da.chunk.js.LICENSE",
+    "static/js/4.9909693a.chunk.js.LICENSE": "/JorgeCasagrande/WeaskWebApp.github.io.git/static/js/4.9909693a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af94547c.js",
+    "static/js/4.9909693a.chunk.js",
+    "static/css/main.227be69d.chunk.css",
+    "static/js/main.e38b4f12.chunk.js"
+  ]
+}

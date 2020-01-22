@@ -1,0 +1,1 @@
+(this["webpackJsonpweask-app"]=this["webpackJsonpweask-app"]||[]).push([[11],{149:function(a,e,n){"use strict";n.r(e);var s=n(0),t=n.n(s);e.default=function(){return t.a.createElement(t.a.Fragment,null,"Usuarios")}}}]);
